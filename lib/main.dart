@@ -25,6 +25,16 @@ class MyApp extends StatelessWidget {
                   fontSize: 60.0,
                   fontWeight: FontWeight.bold,
                 ),
+              ),
+              Text(
+                'FULL STACK DEVELOPER',
+                style: TextStyle(
+                  color: Colors.teal.shade100,
+                  fontSize: 20.0,
+                  fontFamily: 'SourceSansPro',
+                  letterSpacing: 2.5,
+                  fontWeight: FontWeight.bold,
+                ),
               )
             ],
           ),

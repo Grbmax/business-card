@@ -31,3 +31,6 @@ flutter:
       fonts:
         - asset: fonts/Tangerine-Regular.ttf
         - asset: fonts/Tangerine-Bold.ttf
+    - family: SourceSansPro
+      fonts:
+        - asset: fonts/SourceSansPro-Regular.ttf
